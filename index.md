@@ -8,3 +8,6 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+- [x ] Turn on GitHub Pages
+- [x ] Outline my portfolio
+- [ ] Introduce myself to the world
